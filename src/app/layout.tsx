@@ -1,6 +1,6 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { Inter } from "next/font/google"
+import { Quicksand } from "next/font/google"
 import "./globals.css"
 import { ThemeProvider } from "../components/theme-provider"
 import Header from "../components/header"
@@ -8,10 +8,10 @@ import Footer from "../components/footer"
 import CookieConsent from "../components/cookie-consent"
 import { TransitionProvider } from "../components/animations/transition-provider"
 import TransitionLayout from "../components/animations/transition-provider"
-import NavigationProgress from "../components/animations/navigation-progress"
-import TransitionEffectSwitcher from "../components/transition-effect-switcher"
+import NavigationProgressWrapper from "@/components/animations/NavigationProgressWrapper"
 
-const inter = Inter({
+
+const inter = Quicksand({
   subsets: ["latin"],
   variable: "--font-inter",
   display: "swap",
@@ -49,14 +49,13 @@ export default function RootLayout({
       <body className="font-sans antialiased">
         <ThemeProvider attribute="class" defaultTheme="light" enableSystem disableTransitionOnChange>
           <TransitionProvider>
-            <NavigationProgress />
+            <NavigationProgressWrapper />
             <Header />
             <TransitionLayout>
               <main>{children}</main>
             </TransitionLayout>
             <Footer />
             <CookieConsent />
-            {/* <TransitionEffectSwitcher /> */}
           </TransitionProvider>
         </ThemeProvider>
       </body>
