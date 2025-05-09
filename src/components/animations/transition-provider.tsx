@@ -78,7 +78,7 @@ export default function TransitionLayout({ children }: PageTransitionProps) {
         animate="enter"
         exit="exit"
         variants={variants[effect]}
-        transition={{ duration: 0.4, ease: "easeInOut" }}
+        transition={{ duration: 0.01, ease: "easeInOut" }}
         style={{ perspective: "1000px" }} // Для 3D-ефектів
         className="min-h-screen"
       >

@@ -134,7 +134,7 @@ export default function AboutPage() {
 
           <div className="relative aspect-video overflow-hidden rounded-xl">
             <Image
-              src="/oslo-city-center-map.png"
+              src="/aa1b3b41cf806ed514c900ce9a9cf0f6.jpg"
               alt="Kart til NordicTabletop"
               width={600}
               height={400}

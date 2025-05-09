@@ -10,7 +10,7 @@ const posts: Post[] = [
     author: "Magnus Eriksen",
     excerpt:
       "Utforsk den fascinerende historien bak Hnefatafl, et strategispill som var populært blant vikingene og i hele Norden før sjakk ble introdusert.",
-    image: "/placeholder.svg?key=xs226",
+    image: "/ca6c784608b57456db7448c1ca5c7e1c.jpg",
     content: [
       'Hnefatafl, ofte kalt "Vikingenes sjakk", er et av de mest fascinerende brettspillene fra nordisk historie. Arkeologiske funn av spillbrett og brikker daterer spillet tilbake til minst 400-tallet e.Kr., og det forble populært i hele Norden frem til 1100-tallet da sjakk begynte å ta over.',
       'Navnet "Hnefatafl" kommer fra norrønt, der "hnefi" betyr "neve" eller "konge", og "tafl" betyr "brett" eller "bord". Dette reflekterer spillets sentrale fokus: en konge som forsøker å unnslippe fra sentrum av brettet til et av hjørnene, mens han er omringet av fiender.',
@@ -30,7 +30,7 @@ const posts: Post[] = [
     author: "Ingrid Solberg",
     excerpt:
       "Hvorfor håndlagde trebrettspill er det perfekte valget for miljøbevisste gavegivere som ønsker å gi noe med varig verdi og mening.",
-    image: "/placeholder.svg?key=vr921",
+    image: "/b316b3123ea98f4cf12072af06fa0777.jpg",
     content: [
       "I en tid der digitale gaver og plastprodukter dominerer markedet, står trebrettspill frem som et bærekraftig, meningsfullt og tidløst alternativ. Et håndlaget brettspill i tre er ikke bare en gave – det er en investering i utallige timer med kvalitetstid, en forbindelse til tradisjon, og et miljøvennlig valg som kan vare i generasjoner.",
       "Bærekraft er en av de største fordelene med trebrettspill. Tre er en fornybar ressurs når det høstes ansvarlig, og i motsetning til plastprodukter, vil et trebrettspill til slutt brytes ned naturlig uten å etterlate mikroplast i miljøet. Hos NordicTabletop bruker vi kun tre fra bærekraftige kilder, og vi prioriterer lokale tresorter som reduserer transportutslipp.",
@@ -50,7 +50,7 @@ const posts: Post[] = [
     author: "Anders Johansen",
     excerpt:
       "Utforsk de overraskende komplekse strategiene bak Mølle, et av verdens eldste og mest utbredte brettspill som har fascinert spillere i årtusener.",
-    image: "/placeholder.svg?key=ab189",
+    image: "/540b3f92491ab5169f74ed47ed8dbb18.jpg",
     content: [
       "Mølle (Nine Men's Morris) er et av de få brettspillene som har overlevd nesten uendret i over 2000 år. Arkeologiske funn viser at romerne spilte det, vikingene risset spillbrett inn i planker på sine langskip, og middelalderens munker refererte til det i sine manuskripter. Hva er det med dette tilsynelatende enkle spillet som har fascinert mennesker på tvers av kulturer og tidsaldre?",
       'Ved første øyekast virker Mølle ganske enkelt: to spillere plasserer og flytter brikker på et brett med mål om å danne "møller" – tre brikker på rad – som gir rett til å fjerne en av motstanderens brikker. Men under denne enkle overflaten ligger et spill med bemerkelsesverdig strategisk dybde.',
@@ -71,7 +71,7 @@ const posts: Post[] = [
     author: "Sofie Berg",
     excerpt:
       "Praktiske tips for å arrangere en vellykket spillkveld med tradisjonelle brettspill for venner og familie som er nye til disse spillene.",
-    image: "/placeholder.svg?key=kl772",
+    image: "/62dc1e8032ba6b26fd68fa3645601e69.jpg",
     content: [
       "Å introdusere venner og familie til tradisjonelle brettspill kan være utrolig givende, men det krever litt planlegging for å sikre at alle har en positiv opplevelse. Her er våre beste tips for å arrangere en vellykket spillkveld for nybegynnere, basert på vår erfaring med å arrangere ukentlige spillkvelder i vår butikk.",
       "Først og fremst, velg de riktige spillene. For nybegynnere er det best å starte med spill som har enkle regler men engasjerende gameplay. Mølle er et utmerket startpunkt – reglene kan forklares på under ett minutt, men spillet tilbyr nok strategisk dybde til å holde interessen oppe. Daldøs er et annet godt valg, da det kombinerer enkle regler med elementer av både strategi og flaks.",
@@ -92,7 +92,7 @@ const posts: Post[] = [
     author: "Lars Nilsen",
     excerpt:
       "Oppdagelsen av Sáhkku, et fascinerende samisk brettspill med unike regler og kulturell betydning som fortjener større anerkjennelse.",
-    image: "/placeholder.svg?key=gh551",
+    image: "/3K-Bye.jpg",
     content: [
       'Dypt forankret i samisk kultur ligger et brettspill som få utenfor Sápmi kjenner til, men som fortjener en plass blant verdens mest fascinerende strategispill. Sáhkku, som betyr "spill" på nordsamisk, er et unikt brettspill som kombinerer elementer av strategi, flaks og kulturell symbolikk på måter som skiller det fra både vestlige og østlige spilltradisjoner.',
       'Sáhkku spilles på et avlangt brett med tre rader med hull eller markeringer, der spillerne flytter brikker basert på kast med spesielle terninger. Det som gjør spillet særlig interessant er "kongebrikken" (gonagas) som har spesielle bevegelser og er sentral for spillets strategi. Målet er å fange motstanderens brikker og være den første til å få alle dine brikker i mål.',
@@ -113,7 +113,7 @@ const posts: Post[] = [
     author: "Kristian Moen",
     excerpt:
       "Et innblikk i den detaljerte prosessen med å skape håndlagde brettspill, fra valg av trematerialer til de siste finpussede detaljene.",
-    image: "/placeholder.svg?key=uw298",
+    image: "/images.jpeg",
     content: [
       "Bak hvert brettspill i vår kolleksjon ligger en omfattende prosess av håndverk, presisjon og lidenskap. I denne artikkelen tar vi deg med bak kulissene for å vise den fascinerende reisen fra råmateriale til ferdig spill – en prosess som kombinerer tradisjonelle teknikker med moderne presisjon.",
       "Alt starter med valg av materialer. Vi velger nøye ut tresorter basert på deres egenskaper, utseende og bærekraft. For spillbrett foretrekker vi ofte lønnetre for sin lyse farge og fine tekstur, eik for sin styrke og holdbarhet, og valnøtt for sin rike, mørke farge som skaper vakker kontrast. Alle våre materialer kommer fra bærekraftige kilder, primært fra skandinaviske skoger.",
