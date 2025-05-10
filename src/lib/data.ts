@@ -124,7 +124,7 @@ const faqItems: FaqItem[] = [
     id: "faq-3",
     question: "Er spillene deres håndlagde?",
     answer:
-      "Ja, alle våre brettspill er h��ndlagde av dyktige håndverkere som spesialiserer seg på trearbeid. Vi bruker tradisjonelle teknikker og høykvalitets materialer for å sikre at hvert spill er unikt og holdbart.",
+      "Ja, alle våre brettspill er håndlagde av dyktige håndverkere som spesialiserer seg på trearbeid. Vi bruker tradisjonelle teknikker og høykvalitets materialer for å sikre at hvert spill er unikt og holdbart.",
   },
   {
     id: "faq-4",
